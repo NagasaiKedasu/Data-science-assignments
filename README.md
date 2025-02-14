@@ -38,7 +38,7 @@ To use the notebooks, follow these steps:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/data-science-assignments.git
+   git clone https://github.com/NagasaiKedasu/data-science-assignments.git
    ```
 2. Navigate to the directory:
    ```bash
