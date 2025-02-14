@@ -49,9 +49,9 @@ To use the notebooks, follow these steps:
    pip install -r requirements.txt
    ```
 5. Open Jupyter Notebook:
-  
+   ```bash
    jupyter notebook
-  
+   ```
 6. Select and explore any assignment notebook.
 
 🌟 If you find this repository helpful, don't forget to star ⭐ it!
