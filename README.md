@@ -37,22 +37,22 @@ Below is the list of assignments available in this repository:
 To use the notebooks, follow these steps:
 
 1. Clone this repository:
-
-   git clone https://github.com/NagasaiKedasu/data-science-assignments.git
-
-3. Navigate to the directory:
+   ```bash
+   git clone https://github.com/your-username/data-science-assignments.git
+   ```
+2. Navigate to the directory:
    ```bash
    cd data-science-assignments
    ```
-4. Install the required dependencies:
+3. Install the required dependencies:
    ```bash
    pip install -r requirements.txt
    ```
-5. Open Jupyter Notebook:
+4. Open Jupyter Notebook:
    ```bash
    jupyter notebook
    ```
-6. Select and explore any assignment notebook.
+5. Select and explore any assignment notebook.
 
 🌟 If you find this repository helpful, don't forget to star ⭐ it!
 
